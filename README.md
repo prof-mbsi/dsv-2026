@@ -8,8 +8,8 @@
 1. 04/ago: ~~Diagnóstico inicial. Apresentação da disciplina~~
 2. 11/ago: ~~C#: .NET framework. Configuração de ambiente. Fluxos de controle e decisão. Arrays~~
 3. 18/ago: ~~C#: Classes, objetos e relacionamentos~~
-4. 25/ago: C#: Classes, objetos e relacionamentos
-5. 01/sep: Desenvolvimento de back-end da A2-1
+4. 25/ago: ~~C#: Classes, objetos e relacionamentos~~
+5. 01/sep: ~~Desenvolvimento de back-end da A2-1~~
 6. 15/sep: **A2-1: Defesa de código (2,0)**
 7. 22/sep: Minimal APIs. REST. JSON. Postman
 8. 29/sep: Entity framework core. Swagger
